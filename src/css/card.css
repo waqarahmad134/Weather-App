@@ -57,7 +57,6 @@ body {
     border: none;
     border-bottom: 1px solid black;
     text-align: center;
-    /* border-radius: 4rem; */
     margin-top: 1rem;
     height: 2.5rem;
     margin-right: 1rem;
@@ -80,9 +79,10 @@ body {
 .box {
     text-align: center;
     margin: 0 1rem 0.5rem 1rem;
+    padding: 5px 2px;
     height: 5.5rem;
     width: 8rem;
-    background-color: #b42ce5;
+    background-color: #4cd3aa;
     color: white;
     border-radius: 1rem;
     display: flex;
